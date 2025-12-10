@@ -1,11 +1,6 @@
 # paciudev-todos (vue 3 + typescript)
 
-### install & run
-
-1. run `npm install`
-2. run `npm run dev`
-
-### task description
+## Задача
 
 Сделайте ToDo-приложение, позволяющее управлять текущим списком дел. Дизайн — на ваше усмотрение.
 
@@ -30,7 +25,7 @@
 3. Изменение задач.
 4. Сортировка задач (все, выполненные, невыполненные).
 
-### Задачи
+### todo
 
 1. Заменить primevue, primeicons и primeflex на naive-ui.
 
